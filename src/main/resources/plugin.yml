@@ -1,0 +1,4 @@
+name: SimpleChannels
+version: '${version}'
+main: me.flame.channels.SimpleChannels
+api-version: 1.13
